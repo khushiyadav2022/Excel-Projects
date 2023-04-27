@@ -1,6 +1,8 @@
 # Excel-Projects
 **Project1-PROJECTS TO DO LIST**
 
+![](https://www.wikihow.com/images/thumb/5/54/Make-a-To-Do-List-Step-1-Version-3.jpg/v4-460px-Make-a-To-Do-List-Step-1-Version-3.jpg)
+
 IT'S A PROJECT WHEN YOU HAVE A LOTS OF TASK AND YOU WANT TO SEGREGATE IT IN PROPER WAY SO IT WILL GIVE YOU A GOOD IDEA ABOUT ALL THE WORK.
 
 Conclusion:
@@ -12,6 +14,8 @@ Conclusion:
 [presentation](https://github.com/khushiyadav2022/Excel-Projects/blob/3d8c4320ba41e8598b77408af2b3e34589c15425/module1%20project1%20ppt.pdf)
 
 **Project2-WASHING MACHINE COMPARISION**
+
+![](https://qph.cf2.quoracdn.net/main-qimg-dcf175fd1d9a2f750d7676f7990c2d4e-lq)
 
 Here we scrap amazon and flipkart data related to SAMSUNG WASHING MACHINE. we monitor the price , reviews, models etc. from both the websites.
 
@@ -25,6 +29,8 @@ Conclusion:
 [presentation](https://github.com/khushiyadav2022/Excel-Projects/blob/8261fbc39a7e75f11a2b21f12e61d81c0878c7a8/module1%20project2.pdf)
 
 **Project3-Real Estate Data Analysis**
+
+![](https://www.intellectyx.com/wp-content/uploads/2019/06/how-big-data-is-changing-real-estate-industry.jpg)
 
 In this project we recommend which phone will best for user according to their specification.
 
@@ -46,6 +52,8 @@ Analyzed total sales of each month.
 [presentation](https://github.com/khushiyadav2022/Excel-Projects/blob/7e1267f36d7805d9d47fcbbc7428852aedd7f40e/module1project3.pdf)
 
 **Project4-Cell phone recommendation**
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPYATSgry-h31CQQ3BjbflCYZZCEix8Hw0g&usqp=CAU)
 
 In this project we recommend which phone will best for user according to their specification.
 
